@@ -9,3 +9,13 @@
 #### Articles
 * https://www.inc.com/dave-mckeown/what-a-chief-of-staff-should-be-doing-for-your-company.html
 * https://www.charthop.com/resources/blog/best-practices/why-every-growing-startup-needs-a-chief-of-staff/
+
+#### Great Video Clips
+* https://www.youtube.com/watch?v=EMlyVjgXyH4
+* https://www.youtube.com/watch?v=jdlNhxFTAnM
+* https://www.youtube.com/watch?v=fOSnwpJX-DM
+
+#### Video Clips
+* https://www.youtube.com/watch?v=4qqSaK4pXnY
+* https://www.youtube.com/watch?v=uUwmlJfim6U
+* https://www.youtube.com/watch?v=4if3GMuGP94
