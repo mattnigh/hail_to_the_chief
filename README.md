@@ -1,2 +1,2 @@
-# hail_to_the_chief
-Resources to better learn a technology/engineering Chief of Staff role
+# Hail to the Chief
+**Repo intent:** To assist those in a technology/engineering Chief of Staff role with a centralized list of useful resources. 
