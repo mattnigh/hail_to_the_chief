@@ -14,7 +14,7 @@
 |  What a Chief of Staff should be doing for your company    |     Dave McKeown      | [Here](https://www.inc.com/dave-mckeown/what-a-chief-of-staff-should-be-doing-for-your-company.html)  |
 |  Why every growing startup needs a Chief of Staff   |      Ben Pollack     | [Here](https://www.charthop.com/resources/blog/best-practices/why-every-growing-startup-needs-a-chief-of-staff/) 
 
-#### Great Articles
+#### Great Videos
 | Title | Author |  Link |  
 |------|-----------|---|
 |  Chief of Staff: Why You Need One *(6 min)*    |     Matt Mochary      | [Here](https://www.youtube.com/watch?v=EMlyVjgXyH4)  |
@@ -22,7 +22,7 @@
 |  How To Build a Successful Career with the Chief of Staff at Google  *(28 min)*   |     Jeremy Strickland      | [Here](https://www.youtube.com/watch?v=fOSnwpJX-DM)  |
 
 
-#### Great Articles
+#### Good Videos
 | Title | Author |  Link |  
 |------|-----------|---|
 |  Stories from Elon Musk's former Chief of Staff *(17 min)*    |     Sam Teller      | [Here](https://www.youtube.com/watch?v=4qqSaK4pXnY)  |
