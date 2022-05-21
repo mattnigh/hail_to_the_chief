@@ -1,5 +1,19 @@
 # Hail to the Chief: A Playbook for Chief of Staffs
-**Repo intent:** To assist those in a technology/engineering Chief of Staff role with a centralized list of useful resources. 
+**Repo intent:** To assist those in a technology/engineering Chief of Staff (CoS) role with a centralized list of useful resources. 
+
+### How to use this document
+Everything listed below are simple patterns and resources. Applying these processes in reality is much more complex, with more variables to consider. In this document I have stripped processes to a MVP (or Alpha). To some extent that reveals the truth of their purpose/value. But when applying these, ensure more variables (such as organizational change management) are considered. 
+
+### Learn to be your Principal's Proxy
+- **Context:** This is a difficult skill to master. In this role you must separate your own ideas/beliefs from your Principal. In meetings you should publicly differentiate between what is your opinion versus your Principal's. 
+- **Example:** Simple phrases like "...I understand what you are communicating. (NAME)'s highest agreed-on priority is highering so we are going to invest in this." Your words will change depending on the context and 
+
+### Learn to be your Principal's Proxy
+- Review the different areas you and your Principal think you can impact the most as proxy (after 90 days) 
+- Idea: What are the low context needed, but painful areas you could assist with optimizing (
+- Select one to two of these areas and begin supporting (and replacing) your Principal
+- This should be a significant investment of your time (writing documentation, coordinating, building relationships, etc)
+- Set informal time to build your relationship with your Principal (virtual lunch, meeting during offsites, etc) 
 
 ### How to create a Rhythm of Business (RoB)
 - List what is needed by HR and compliance (annual reviews, increases, etc)
