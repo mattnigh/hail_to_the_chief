@@ -1,5 +1,8 @@
 # Hail to the Chief: A Playbook for Chief of Staffs
-**Repo intent:** To assist those in a technology/engineering Chief of Staff (CoS) role with a centralized list of useful resources.
+**Repo intent:** To assist those in a technology/engineering Chief of Staff (CoS) role. Over time I am hoping to grow it to a larger open source CoS career roadmap and guide. Inspired by other repos such as:
+* https://github.com/kdeldycke/awesome-engineering-team-management
+* https://github.com/kamranahmedse/developer-roadmap
+* https://github.com/shahedbd/awesome-project-management
 
 #### Contents
 - [Chief of Staff Patterns](https://github.com/mattnigh/hail_to_the_chief/edit/main/README.md#chief-of-staff-patterns)
