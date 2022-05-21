@@ -15,11 +15,11 @@
 
 ###  :mega: Learning to be your Principal's Proxy
 - **Context** 
-  - This is a difficult skill to master. In this role you must separate publicly your own ideas/beliefs from your Principal. In meetings you should verbally differentiate between what is your opinion versus your Principal's if there could be any question. 
+  - This is the most difficult CoS skill to master. In this role you must separate publicly your own ideas/beliefs from your Principal. Make decisions you believe your Principal wants when in this role (rather than you). When communicating you should generally differentiate between what is your opinion versus your Principal's if there could be any question. 
 - **Example/In Use** 
   - Simple phrases like "...(NAME)'s decision here is we are going to invest in this." when acting as proxy can be completely appropriate. In other times you might want to make it clear you are making the decision in their absence. 
   - What you actually say will need to adapt to the context/situation. 
-- Begin to learn this skill by representing your Principal in the simplest of situations (for example org/team document reviews, facilitating meetings, writing/editing comms and docs directly for your principal). 
+- Begin to learn this skill by representing your Principal in the simplest of situations (for example org/team document reviews, facilitating meetings, writing/editing comms and docs directly for your principal). Provide the Principal with a FYI afterwards. They can provide feedback as appropriate.
 - Do this for around six months or so (biz complexity impacts this), after that begin to get real depth in your org (see below). 
 
 ### 🏢 Start to get depth in your Organization
