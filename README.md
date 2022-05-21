@@ -15,7 +15,7 @@
 - I stripped processes below to a MVP (or Alpha). To that reveals the truth of their purpose/value. Build upon them appropriately.
 - Ensure more variables (such as organizational change management, your team culture/standards, etc) are considered.
 
-##  Chief of Staff Patterns
+##  Patterns for a Chief of Staff
 
 ###  :mega: Learning to be your Principal's Proxy
 - **Context**
