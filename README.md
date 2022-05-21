@@ -1,46 +1,53 @@
 # Hail to the Chief: A Playbook for Chief of Staffs
 **Repo intent:** To assist those in a technology/engineering Chief of Staff (CoS) role with a centralized list of useful resources. 
 
+#### Contents
+- [Chief of Staff Patterns](https://github.com/mattnigh/hail_to_the_chief/edit/main/README.md#chief-of-staff-patterns)
+- [Learning Resources](https://github.com/mattnigh/hail_to_the_chief/edit/main/README.md#learning-resources)
+
 ### :blue_book: How to use this document
 - Applying these processes in reality is much more complex, with more variables to consider. 
 - Everything listed below are simple patterns and resources to leverage.
 - I stripped processes below to a MVP (or Alpha). To that reveals the truth of their purpose/value. Build upon them appropriately. 
 - Ensure more variables (such as organizational change management, your team culture/standards, etc) are considered. 
--------
 
 ##  Chief of Staff Patterns 
 
 ###  :mega: Learning to be your Principal's Proxy
-- **Context:** This is a difficult skill to master. In this role you must separate publicly your own ideas/beliefs from your Principal. In meetings you should verbally differentiate between what is your opinion versus your Principal's if there could be any question. 
-- **Example:** Simple phrases like "...(NAME)'s decision here is we are going to invest in this." when acting as proxy can be completely appropriate. In other times you might want to make it clear you are making the decision in their absence. What you actually say will need to adapt to the context/situation. 
+- **Context** 
+  - This is a difficult skill to master. In this role you must separate publicly your own ideas/beliefs from your Principal. In meetings you should verbally differentiate between what is your opinion versus your Principal's if there could be any question. 
+- **Example/In Use** 
+  - Simple phrases like "...(NAME)'s decision here is we are going to invest in this." when acting as proxy can be completely appropriate. In other times you might want to make it clear you are making the decision in their absence. 
+  - What you actually say will need to adapt to the context/situation. 
 - Begin to learn this skill by representing your Principal in the simplest of situations (for example org/team document reviews, facilitating meetings, writing/editing comms and docs directly for your principal). 
 - Do this for around six months or so (biz complexity impacts this), after that begin to get real depth in your org (see below). 
 
 ### 🏢 Start to get depth in your Organization
-- Review the different areas you and your Principal think you can impact the most as proxy (after 90-120 days) 
+- Review the different areas you and your Principal think you can impact the most as proxy (after 90-120 days). 
 - **Idea:** What are the low context needed, but painful areas you could assist with optimizing. Examples of low context areas might be hiring, 
-- Select one to two of these areas and begin supporting (and replacing) your Principal
-- This should be a significant investment of your time (writing documentation, coordinating, building relationships, etc)
-- Set informal time to build your relationship with your Principal (virtual lunches, meeting during offsites, etc) 
+- Select one to two of these areas and begin supporting (and replacing) your Principal.
+- This should be a significant investment of your time (writing documentation, coordinating, building relationships, etc).
+- Set informal time to build your relationship with your Principal (virtual lunches, meeting during offsites, etc).
+- Set (less frequent) informal time with Principal's directs.
 
 ### 🏢 Start to get meaningful breadth in your Organization
-- Review/edit Princpal's LT strategic documents (planning, communications, proposals, etc)  
-- Define smallish/medium areas of contribution you can begin immediately within those (or across) 
+- Review/edit Princpal's LT strategic documents (planning, communications, proposals, etc).  
+- Define smallish/medium areas of contribution you can begin immediately within those (or across). 
 
 ### 📆 MVP Process: Creating a Rhythm of Business (RoB)
-- List what is needed by HR and compliance (annual reviews, increases, etc)
-- List what is needed from your org in the finance cycle (budget reviews/submissions, vendor spend, etc) 
-- List what is needed to lead and communicate to your org (town halls, AMAs, etc)
-- List what is needed by your principal's leadership team (off sites, org strategic planning, etc) 
-- List what is needed by your principal (promtion cyles, company-wide strategic planning, etc)
-- Combine these into a document and present it in multiple mediums (written and visual)
-- Have this sync reviewed by a lot people (those impacted) and collect feedback
-- Have a communication layer just for the RoB changes (to those impacted and public if possible)
-- Have an async final review/feedback and make changes as appropriate
-- Ensure there is a feedback process to optimize the RoB 
-- Implement....and iterate (give time to see changes)
+- List what is needed by HR and compliance (annual reviews, increases, etc).
+- List what is needed from your org in the finance cycle (budget reviews/submissions, vendor spend, etc). 
+- List what is needed to lead and communicate to your org (town halls, AMAs, etc).
+- List what is needed by your principal's leadership team (off sites, org strategic planning, etc). 
+- List what is needed by your principal (promtion cyles, company-wide strategic planning, etc).
+- Combine these into a document and present it in multiple mediums (written and visual).
+- Have this sync reviewed by a lot people (those impacted) and collect feedback.
+- Have a communication layer just for the RoB changes (to those impacted and public if possible).
+- Have an async final review/feedback and make changes as appropriate.
+- Ensure there is a feedback process to optimize the RoB.
+- Implement....and iterate (give time to see changes).
 
-## 🔖 Learning Resources
+## Learning Resources
 
 #### Great Articles
 | Title | Author |  Link |  
