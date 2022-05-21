@@ -7,6 +7,7 @@
 |  Seven Things a Corporate Chief of Staff Does    |     Ben Balter      | [Here](https://ben.balter.com/2022/03/09/seven-things-a-corporate-chief-of-staff-does/)  |
 |  Why You Need Two Chiefs in the Executive Office   |      First Round Blog     | [Here](https://review.firstround.com/why-you-need-two-chiefs-in-the-executive-office) 
 |  10,000 Hours with Reid Hoffman: What I learned    |     Ben Casnocha      | [Here](https://casnocha.com/reid-hoffman-lessons)  |
+|  Seven tips for success for new chiefs of staff |     Davis, Dohrmann, Kumar      | [Here](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/seven-tips-for-success-for-new-chiefs-of-staff-at-government-agencies)  |
 
 #### Articles
 | Title | Author |  Link |  
