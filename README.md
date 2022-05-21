@@ -39,6 +39,13 @@
 - Define smallish/medium areas of contribution you can begin immediately within those (or across).
 - Do this for ~ six months while scaling up your contribution/impact in those areas
 
+### 📆 Provide your Principal with feedback (individual and org)
+- Set up bi-weekly or monthly meetings with their directs
+- Find a way to engage skip levels as appropriate
+- Develop a consistent methodology to collect and report back feedback
+- Use both formal and informal feedback gathering mechanisms (conversations, surveys, etc)
+- Track and collect that feedback over time; report against actionable improvements (demonstrate wins/gaps)
+
 ### 📆 MVP Process: Creating a Rhythm of Business (RoB)
 - List what is needed by HR and compliance (annual reviews, increases, etc).
 - List what is needed from your org in the finance cycle (budget reviews/submissions, vendor spend, etc).
