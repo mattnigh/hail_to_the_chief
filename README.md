@@ -24,7 +24,6 @@
   - Simple phrases like "...(NAME)'s decision here is we are going to invest in this." when acting as proxy can be completely appropriate. In other times you might want to make it clear you are making the decision in their absence.
   - What you actually say will need to adapt to the context/situation.
 - Begin to learn this skill by representing your Principal in the simplest of situations (for example org/team document reviews, facilitating meetings, writing/editing comms and docs directly for your principal). Provide the Principal with a FYI afterwards. They can provide feedback as appropriate.
-- Do this for around six months or so (biz complexity impacts this), after that begin to get real depth in your org (see below).
 
 ### 🏢 Start to get depth in your Organization
 - Review the different areas you and your Principal think you can impact the most as a proxy (after 90-120 days).
