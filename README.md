@@ -8,6 +8,10 @@
 - List what is needed by your principal's leadership team (off sites, org strategic planning, etc) 
 - List what is needed by your principal (promtion cyles, company-wide strategic planning, etc)
 - Combine these into a document and present it in multiple mediums (written and visual)
+- Have this sync reviewed by a lot people (those impacted) and collect feedback
+- Have an async final review/feedback and make changes as appropriate
+- Ensure there is a feedback process to optimize the RoB 
+- Implement....and iterate (give time to see change)
 
 
 #### Great Articles
