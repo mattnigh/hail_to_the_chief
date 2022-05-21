@@ -1,5 +1,14 @@
-# Hail to the Chief
+# Hail to the Chief: A Playbook for Chief of Staffs
 **Repo intent:** To assist those in a technology/engineering Chief of Staff role with a centralized list of useful resources. 
+
+### How to create a Rhythm of Business (RoB)
+- List what is needed by HR and compliance (annual reviews, increases, etc)
+- List what is needed from your org in the finance cycle (budget reviews/submissions, vendor spend, etc) 
+- List what is needed to lead and communicate to your org (town halls, AMAs, etc)
+- List what is needed by your principal's leadership team (off sites, org strategic planning, etc) 
+- List what is needed by your principal (promtion cyles, company-wide strategic planning, etc)
+- Combine these into a document and present it in multiple mediums (written and visual)
+
 
 #### Great Articles
 | Title | Author |  Link |  
