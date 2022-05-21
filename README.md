@@ -1,21 +1,26 @@
 # Hail to the Chief: A Playbook for Chief of Staffs
 **Repo intent:** To assist those in a technology/engineering Chief of Staff (CoS) role with a centralized list of useful resources. 
 
-### How to use this document
-Everything listed below are simple patterns and resources. Applying these processes in reality is much more complex, with more variables to consider. In this document I have stripped processes to a MVP (or Alpha). To some extent that reveals the truth of their purpose/value. But when applying these, ensure more variables (such as organizational change management) are considered. 
+### :blue_book: How to use this document
+- Applying these processes in reality is much more complex, with more variables to consider. 
+- Everything listed below are simple patterns and resources to leverage.
+- I stripped processes below to a MVP (or Alpha). To that reveals the truth of their purpose/value. Build upon them appropriately. 
+- Ensure more variables (such as organizational change management, your team culture/standards, etc) are considered. 
 
-### Learn to be your Principal's Proxy
-- **Context:** This is a difficult skill to master. In this role you must separate your own ideas/beliefs from your Principal. In meetings you should publicly differentiate between what is your opinion versus your Principal's. 
-- **Example:** Simple phrases like "...I understand what you are communicating. (NAME)'s highest agreed-on priority is highering so we are going to invest in this." Your words will change depending on the context and 
+###  :mega: Learn to be your Principal's Proxy
+- **Context:** This is a difficult skill to master. In this role you must separate publicly your own ideas/beliefs from your Principal. In meetings you should verbally differentiate between what is your opinion versus your Principal's if there could be any question. 
+- **Example:** Simple phrases like "...(NAME)'s decision here is we are going to invest in this." when acting as proxy can be completely appropriate. In other times you might want to make it clear you are making the decision in their absence. What you actually say will need to adapt to the context/situation. 
+- Begin to learn this skill by representing your Principal in the simplest of situations (for example org/team document reviews, facilitating meetings, writing/editing comms and docs directly for your principal). 
+- Do this for around six months or so (biz complexity impacts this), after that begin to get real depth in your org (see below). 
 
-### Learn to be your Principal's Proxy
-- Review the different areas you and your Principal think you can impact the most as proxy (after 90 days) 
-- Idea: What are the low context needed, but painful areas you could assist with optimizing (
+### 🏢 Start to get depth in your Organization
+- Review the different areas you and your Principal think you can impact the most as proxy (after 90-120 days) 
+- **Idea:** What are the low context needed, but painful areas you could assist with optimizing 
 - Select one to two of these areas and begin supporting (and replacing) your Principal
 - This should be a significant investment of your time (writing documentation, coordinating, building relationships, etc)
-- Set informal time to build your relationship with your Principal (virtual lunch, meeting during offsites, etc) 
+- Set informal time to build your relationship with your Principal (virtual lunches, meeting during offsites, etc) 
 
-### How to create a Rhythm of Business (RoB)
+### 📆 Process: How-to create a Rhythm of Business (RoB)
 - List what is needed by HR and compliance (annual reviews, increases, etc)
 - List what is needed from your org in the finance cycle (budget reviews/submissions, vendor spend, etc) 
 - List what is needed to lead and communicate to your org (town halls, AMAs, etc)
@@ -23,9 +28,10 @@ Everything listed below are simple patterns and resources. Applying these proces
 - List what is needed by your principal (promtion cyles, company-wide strategic planning, etc)
 - Combine these into a document and present it in multiple mediums (written and visual)
 - Have this sync reviewed by a lot people (those impacted) and collect feedback
+- Have a communication layer just for the RoB changes (to those impacted and public if possible)
 - Have an async final review/feedback and make changes as appropriate
 - Ensure there is a feedback process to optimize the RoB 
-- Implement....and iterate (give time to see change)
+- Implement....and iterate (give time to see changes)
 
 
 #### Great Articles
