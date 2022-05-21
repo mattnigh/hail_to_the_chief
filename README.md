@@ -17,7 +17,7 @@
 
 ##  Patterns for a Chief of Staff
 
-###  :mega: Learning to be your Principal's Proxy
+###  :mega: Learn to be your Principal's Proxy
 - **Context**
   - This is the most difficult CoS skill to master. In this role you must publicly separate your own ideas/beliefs from your Principal. Make decisions you believe your Principal wants when in this role (rather than you). When communicating you should generally differentiate between what is your opinion versus your Principal's if there could be any question.
 - **Example/In Use**
@@ -37,6 +37,7 @@
 ### 🏢 Start to get meaningful breadth in your Organization
 - Review/edit Principal's LT strategic documents (planning, communications, proposals, etc).  
 - Define smallish/medium areas of contribution you can begin immediately within those (or across).
+- Do this for ~ six months while scaling up your contribution/impact in those areas
 
 ### 📆 MVP Process: Creating a Rhythm of Business (RoB)
 - List what is needed by HR and compliance (annual reviews, increases, etc).
@@ -52,6 +53,8 @@
 - Implement....and iterate (give time to see changes).
 
 ## Learning Resources
+
+####
 
 #### Great Articles
 | Title | Author |  Link |  
