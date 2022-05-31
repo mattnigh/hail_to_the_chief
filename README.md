@@ -94,7 +94,7 @@
 |  The Rise of the Chief of Staff *(40 min)*   |     TechKnowledgical      | [Here](https://www.youtube.com/watch?v=4if3GMuGP94)  |
 
 ## Chief of Staff Career Support
-This section is for what. 
+This section is to collect/organize content that can help proview a new CoS with some career orientation. 
 
 #### Tech Organization with CoS Roles
 - [Microsoft](https://www.glassdoor.com/Jobs/Microsoft-chief-of-staff-Jobs-EI_IE1651.0,9_KO10,24.htm?filter.countryId=1) 
